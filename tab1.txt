@@ -1,0 +1,6 @@
+state,population
+Alabama,4779736
+Alaska,710231
+Arizona,6392017
+Delaware,897934
+District of Columbia,601723
